@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cory Stanfield
+- 👋 Hi, I’m redacted
 - 👀 I’m interested in ... Buidling and exploring new things
 - 🌱 I’m currently learning ... Video Game Development and AI
 - 💞️ I’m looking to collaborate on ... I'm a solo dev
