@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Wülf-Stëppen
-- 👀 I’m interested in ... Modding, Indie Game Dev, and AI
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... I'm a solo dev
-- 📫 How to reach me ... pls dont
+<image src="./AEFG.png">
+
+👋 **I’m *Wülf-Stëppen***
+
+👀 **I’m interested in:** Modding, Indie Game Dev, and AI
+
+🌱 **I’m currently learning:** Python and Github and Ruby 
+
+📫 **How to reach me:** pls dont
 
 
 
